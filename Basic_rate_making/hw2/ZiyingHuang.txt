@@ -1,0 +1,8 @@
+Pros
+- Presentation format
+- Clear atriculation of the technique and assumptions.
+- They provided an example of the implementation of the method.
+
+Areas of improvement
+- Presentaion seems to lose momentum around min 7 during the 
+presentation of the example. 
